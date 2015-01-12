@@ -5,4 +5,4 @@ List of things to be done:
 4. change the working directory to the folder to be used as the local repository
 5. initialize the repository folder to be used by git (git init)
 6. Add any files or edit available files (work normally)
-7. To sync what we have in the local repository with theone in the github run git add, git commit, then push
+7. To sync what we have in the local repository with theone in the github run git add, git commit, then push.
